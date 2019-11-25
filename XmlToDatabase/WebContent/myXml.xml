@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle-informations>
+	<vehicle-information>
+		<id>0001</id>
+		<name>DS</name>
+		<model>7 CROSSBACK</model>
+		<description>premium SUV Specification</description>
+		<nof>NOF00001</nof>
+		<pono>PONO01</pono>
+		<specification-book></specification-book>
+		<production-year>2018</production-year>
+		<production-date>28-12-2018</production-date>
+	</vehicle-information>
+	<vehicle-information>
+		<id>0002</id>
+		<name>DS</name>
+		<model>4 CROSSBACK</model>
+		<description>premium SUV Specification</description>
+		<nof>NOF00002</nof>
+		<pono>PONO02</pono>
+		<specification-book></specification-book>
+		<production-year>2018</production-year>
+		<production-date>28-12-2018</production-date>
+	</vehicle-information>
+	<vehicle-information>
+		<id>0003</id>
+		<name>DS</name>
+		<model>3 CROSSBACK</model>
+		<description>premium SUV Specification</description>
+		<nof>NOF00003</nof>
+		<pono>PONO03</pono>
+		<specification-book></specification-book>
+		<production-year>2018</production-year>
+		<production-date>28-12-2018</production-date>
+	</vehicle-information>
+	<vehicle-information>
+		<id>0004</id>
+		<name>DS</name>
+		<model>7 CROSSBACK</model>
+		<description>premium SUV Specification</description>
+		<nof>NOF00004</nof>
+		<pono>PONO04</pono>
+		<specification-book></specification-book>
+		<production-year>2018</production-year>
+		<production-date>28-12-2018</production-date>
+	</vehicle-information>
+	
+</vehicle-informations>
